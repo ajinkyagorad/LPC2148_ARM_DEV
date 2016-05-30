@@ -1,2 +1,2 @@
-# LPC2148_ARM_DEV
-develpment with lpc2148
+# LPC2148 ARM DEV
+##Development of software & Learning to use OOP
